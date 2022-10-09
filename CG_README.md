@@ -15,6 +15,8 @@ The MNIST dataset was created by the National Institute of Standards and Technol
 
 The MNIST Dataset consists of 70k 28x28 pixel grayscale images of handwritten digits extracted from two NIST databases. The training set consists of 60,000 images, and the test set comprises 10,000 images. There is one digit per class with a total of 10 classes (0-9), with 7,000 images in each class.
 
+The dataset curators are listed as Chris Burges, Corinna Cortes, and Yann LeCun.
+
 ## MODEL 
 
 The model I have chosen is a convolutional neural network with the following structure:
