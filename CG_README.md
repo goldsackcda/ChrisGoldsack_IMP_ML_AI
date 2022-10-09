@@ -23,7 +23,7 @@ CONV -> RELU -> MAXPOOL -> CONV -> RELU -> MAXPOOL -> FULLY CONNECTED -> RELU ->
 
 The reasons for using this model, is because it is not too bulky, relatively easy to follow what is happening at each stage, and it delivers strong results. 
 
-## HYPERPARAMETER OPTIMSATION
+## HYPERPARAMETER OPTIMISATION
 
 The hyperparameter I have chosen to tune is the learning rate. To to this I have used methods from the ray-tune library. I have used PyTorch to write create my CNN.
 
@@ -35,7 +35,4 @@ This performance was improved after performing hyperparameter tuning, and changi
 
 You can include images of plots using the code below:
 ![Screenshot](TunedLR.png)
-
-## (OPTIONAL: CONTACT DETAILS)
-If you are planning on making your github repo public you may wish to include some contact information such as a link to your twitter or an email address. 
 
