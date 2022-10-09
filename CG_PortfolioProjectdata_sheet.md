@@ -39,7 +39,7 @@ The data was acquired using the DataLoader method using PyTorch.
 
 - If the data is a sample of a larger subset, what was the sampling strategy? 
 
-I is not part of a larger subset. It is the combination of two smaller subsets. There was not any sampling strategy employed.
+It is not part of a larger subset. It is the combination of two smaller subsets. There was not any sampling strategy employed.
 
 - Over what time frame was the data collected?
 
